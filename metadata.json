@@ -1,0 +1,8 @@
+{
+  "name": "quan ly vat tu",
+  "description": "Hệ thống quản lý và mua bán vật tư, quét mã QR bill, quản lý kho cuộn dây/thùng hộp, báo cáo doanh thu PDF, đồng bộ đám mây.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

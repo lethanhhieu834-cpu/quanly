@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main Inventory Package Box -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,26 L82,40 L54,54 L26,40 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M26,40 L54,54 L54,82 L26,68 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M54,54 L82,40 L82,68 L54,82 Z" />
+    <!-- Tape / Ribbon accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,29 L60,35 L60,43 L48,37 Z" />
+    <!-- QR Code Scan Badge on top corner -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M64,22 H86 V44 H64 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M68,26 H82 V40 H68 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M71,29 H79 V37 H71 Z" />
+</vector>
